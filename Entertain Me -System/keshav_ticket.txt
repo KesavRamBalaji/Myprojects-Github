@@ -1,0 +1,8 @@
+SHOW TICKET
+===============
+
+Email ID: keshav
+Show Code: DD
+Ticket Cost: Rs 10000.000000
+Number of tickets: 1
+Total Cost: Rs 10000.000000
